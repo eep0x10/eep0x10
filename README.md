@@ -20,25 +20,6 @@ B.Sc. Computer Science · Postgrad in Red Team Ops · linkedin.com/in/eep0x
 
 ![OSCP](https://img.shields.io/badge/OSCP-A4C639?style=for-the-badge&logo=offensive-security&logoColor=black)
 ![eMAPT](https://img.shields.io/badge/eMAPT-9B59B6?style=for-the-badge&logo=hackthebox&logoColor=white)
-![DCPT](https://img.shields.io/badge/DCPT-1f6feb?style=for-the-badge&logo=hackaday&logoColor=white)
-
-### 🎯 Roadmap
-
-| 🔄 In progress | 🧭 Next up |
-| :-- | :-- |
-| `OSWE` · `CRTO` | `OSEP` · `OSED` · `CRTO 2` · `CRTP / CRTE` · `CARTE` · `ARTE` · `GRTE` |
-
-### 🛠️ Arsenal
-
-| Domain | Tooling |
-| :-- | :-- |
-| 🌐 **Web** | `Burp Suite` `SQLmap` `Nuclei` `ffuf` `OWASP ZAP` |
-| 📱 **Mobile** | `Frida` `Objection` `MobSF` `HTTP Toolkit` |
-| 🏰 **AD / Red Team** | `BloodHound` `Cobalt Strike` `Sliver` `Mimikatz` `Impacket` |
-| ☁️ **Cloud** | `Azure` `AWS` `GCP` `Pacu` `ROADtools` |
-| ⚙️ **Core** | `Kali` `Python` `Bash` `Docker` |
-
-### 📊 Stats
 
 <div align="center">
 
