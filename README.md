@@ -15,12 +15,6 @@
 Eric Paulo — Offensive Security Analyst / Pentester
 B.Sc. Computer Science · Postgrad in Red Team Ops · linkedin.com/in/eep0x
 ```
-
-### 🎓 Certifications
-
-![OSCP](https://img.shields.io/badge/OSCP-A4C639?style=for-the-badge&logo=offensive-security&logoColor=black)
-![eMAPT](https://img.shields.io/badge/eMAPT-9B59B6?style=for-the-badge&logo=hackthebox&logoColor=white)
-
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=eep0x10&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff2d2d&icon_color=ff2d2d&text_color=cfcfcf"/>
