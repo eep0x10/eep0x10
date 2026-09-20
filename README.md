@@ -1,12 +1,20 @@
-![eep0x10 — Segurança, pesquisa e ferramentas que resolvem problemas.](docs/assets/banner.svg)
+<div align="center">
+
+<img src="docs/assets/banner.png" alt="eep0x10 — ilustração de marca" width="100%">
 
 # eep0x10
 
-**Segurança, pesquisa e ferramentas que resolvem problemas.**
+### Segurança. Pesquisa. Engenharia.
+
+Perfil de projetos de **eep0x10**. Segurança ofensiva, ferramentas de desenvolvimento e experimentos documentados fazem parte do trabalho apresentado neste GitHub.
+
+[![Perfil: Projetos públicos](https://img.shields.io/badge/Perfil-Projetos%20p%C3%BAblicos-34495e?style=flat-square)](https://github.com/eep0x10?tab=repositories)
 
 [Explore por interesse](#explore-por-interesse) · [Sobre este espaço](#sobre-este-espaço)
 
-Perfil de projetos de **eep0x10**. Segurança ofensiva, ferramentas de desenvolvimento e experimentos documentados fazem parte do trabalho apresentado neste GitHub.
+</div>
+
+> O banner é uma ilustração conceitual de marca criada com IA; não é uma captura da aplicação nem comprovação de um resultado real.
 
 ## Explore por interesse
 
