@@ -13,7 +13,6 @@ Perfil de projetos de **eep0x10**. Segurança ofensiva, ferramentas de desenvolv
 | Interesse | Projeto |
 | --- | --- |
 | Análise de tráfego | [Burp Analytics Filter](https://github.com/eep0x10/burp-analytics-filter) — marcação de telemetria no histórico do Burp. |
-
 | Administração de sistemas | [Run as a Service](https://github.com/eep0x10/runAs.service) — referência sobre unidades systemd. |
 | Interfaces de rede | [PowerR MAC Spoofing](https://github.com/eep0x10/powerr-macspoofing) — utilitário Windows para laboratório controlado. |
 
